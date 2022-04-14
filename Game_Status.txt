@@ -1,0 +1,210 @@
+Trial: 1
+Player HP: 440  Player MP: 100
+Monster HP: 450  Monster MP: 0
+Trial: 2
+Player HP: 420  Player MP: 100
+Monster HP: 415  Monster MP: 0
+Trial: 3
+Player HP: 400  Player MP: 100
+Monster HP: 395  Monster MP: 0
+Trial: 4
+Player HP: 400  Player MP: 100
+Monster HP: 375  Monster MP: 0
+Trial: 5
+Player HP: 400  Player MP: 100
+Monster HP: 355  Monster MP: 0
+Trial: 6
+Player HP: 400  Player MP: 100
+Monster HP: 335  Monster MP: 0
+Trial: 7
+Player HP: 400  Player MP: 100
+Monster HP: 315  Monster MP: 0
+Trial: 8
+Player HP: 400  Player MP: 100
+Monster HP: 295  Monster MP: 0
+Trial: 9
+Player HP: 380  Player MP: 100
+Monster HP: 275  Monster MP: 0
+Trial: 10
+Player HP: 360  Player MP: 100
+Monster HP: 240  Monster MP: 0
+Trial: 11
+Player HP: 360  Player MP: 100
+Monster HP: 205  Monster MP: 0
+Trial: 12
+Player HP: 340  Player MP: 100
+Monster HP: 185  Monster MP: 0
+Trial: 13
+Player HP: 320  Player MP: 100
+Monster HP: 185  Monster MP: 0
+Trial: 14
+Player HP: 300  Player MP: 100
+Monster HP: 150  Monster MP: 0
+Trial: 15
+Player HP: 280  Player MP: 100
+Monster HP: 130  Monster MP: 0
+Trial: 16
+Player HP: 260  Player MP: 100
+Monster HP: 95  Monster MP: 0
+Trial: 17
+Player HP: 240  Player MP: 100
+Monster HP: 60  Monster MP: 0
+Trial: 18
+Player HP: 220  Player MP: 100
+Monster HP: 40  Monster MP: 0
+Trial: 19
+Player HP: 220  Player MP: 100
+Monster HP: 5  Monster MP: 0
+Trial: 20
+Player HP: 200  Player MP: 100
+Monster HP: 5  Monster MP: 0
+Trial: 21
+Player HP: 200  Player MP: 100
+Monster HP: -30  Monster MP: 0
+Trial: 1
+Player HP: 455  Player MP: 60
+Monster HP: 380  Monster MP: 85
+Trial: 2
+Player HP: 445  Player MP: 20
+Monster HP: 310  Monster MP: 85
+Trial: 3
+Player HP: 400  Player MP: 20
+Monster HP: 310  Monster MP: 70
+Trial: 4
+Player HP: 390  Player MP: 20
+Monster HP: 310  Monster MP: 70
+Trial: 5
+Player HP: 380  Player MP: 20
+Monster HP: 310  Monster MP: 70
+Trial: 6
+Player HP: 335  Player MP: 20
+Monster HP: 310  Monster MP: 55
+Trial: 7
+Player HP: 335  Player MP: 20
+Monster HP: 310  Monster MP: 55
+Trial: 8
+Player HP: 275  Player MP: 20
+Monster HP: 310  Monster MP: 35
+Trial: 9
+Player HP: 265  Player MP: 20
+Monster HP: 310  Monster MP: 35
+Trial: 10
+Player HP: 265  Player MP: 20
+Monster HP: 310  Monster MP: 35
+Trial: 11
+Player HP: 220  Player MP: 20
+Monster HP: 310  Monster MP: 20
+Trial: 12
+Player HP: 160  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 13
+Player HP: 160  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 14
+Player HP: 160  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 15
+Player HP: 160  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 16
+Player HP: 160  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 17
+Player HP: 150  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 18
+Player HP: 140  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 19
+Player HP: 140  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 20
+Player HP: 130  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 21
+Player HP: 120  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 22
+Player HP: 110  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 23
+Player HP: 100  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 24
+Player HP: 90  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 25
+Player HP: 90  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 26
+Player HP: 90  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 27
+Player HP: 90  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 28
+Player HP: 80  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 29
+Player HP: 80  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 30
+Player HP: 70  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 31
+Player HP: 60  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 32
+Player HP: 60  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 33
+Player HP: 50  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 34
+Player HP: 50  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 35
+Player HP: 50  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 36
+Player HP: 50  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 37
+Player HP: 50  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 38
+Player HP: 40  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 39
+Player HP: 30  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 40
+Player HP: 30  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 41
+Player HP: 30  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 42
+Player HP: 30  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 43
+Player HP: 20  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 44
+Player HP: 20  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 45
+Player HP: 20  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 46
+Player HP: 20  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 47
+Player HP: 20  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 48
+Player HP: 10  Player MP: 20
+Monster HP: 310  Monster MP: 0
+Trial: 49
+Player HP: 0  Player MP: 20
+Monster HP: 310  Monster MP: 0
